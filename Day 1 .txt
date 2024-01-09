@@ -1,0 +1,10 @@
+Day 1 
+
+started python today 
+topics learned - how to prints any word or statement , various data types, simple mathematical problems,user input programs , entered number is even or odd etc
+
+
+in data types -inbuilt data types and user define data type
+
+ran first python code which is nothing but hello world .
+
