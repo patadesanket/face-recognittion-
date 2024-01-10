@@ -8,3 +8,7 @@ in data types -inbuilt data types and user define data type
 
 ran first python code which is nothing but hello world .
 
+
+day 2 
+learned in detail about  1] lists 2] tuple 3] dictionary 
+also worked on making simple calculator and expense tracker using python 
